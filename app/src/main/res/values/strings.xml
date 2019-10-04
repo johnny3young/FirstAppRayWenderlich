@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">FirstAppRayWenderlich</string>
     <string name="tapme">Tap Me</string>
-    <string name="your_score">Your Score %1$d</string>
+    <string name="your_score">Your Score is: %1$d</string>
+    <string name="your_score_hint">0</string>
     <string name="time">Time: %1$d</string>
+    <string name="gameOverMessage">Time Up: Your score was: %1$d</string>
 </resources>
